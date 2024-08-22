@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jj8q0AnrDPQs57BTqpCJlKilHRqOFBUPhBWXC6gECtCTsfbJKtizrsDNAMA+Bt0mjSw7AUA9C6c2vF9+C31bng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erupaka.CIVICPLUS\\source\\repos\\CookieClicker\\CookieClicker\\CookieClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\microsoft.codecoverage\\17.11.0\\microsoft.codecoverage.17.11.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.0\\microsoft.net.test.sdk.17.11.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.0\\microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.0\\microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\selenium.support\\4.23.0\\selenium.support.4.23.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.3600-beta\\selenium.webdriver.chromedriver.128.0.6613.3600-beta.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\erupaka.CIVICPLUS\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
